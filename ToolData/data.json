@@ -1,0 +1,78 @@
+{
+    "CNIC": [
+        "CNIC",
+        "CNICs",
+        "cnic",
+        "DA_CNIC",
+        "CNIC No.1",
+        "CNIC #",
+        "Cnic Number",
+        "CNIC2",
+        "CNIC No",
+        "CNICNo"
+    ],
+    "Name": [
+        "Name",
+        "Account Title",
+        "name",
+        "Name of Owner ",
+        "DA Occupant Name",
+        "NAME",
+        "Beneficiary's Name",
+        "Beneficiary,s Name",
+        "Name",
+        "Beneficiary Name",
+        "Name ",
+        "Customer Name",
+        "Title of Account",
+        "occupant_name"
+    ],
+    "ACCOUNT NO": [
+        "Account with IBN #",
+        "IBAN_A/C No.",
+        "Account IBN No",
+        "ACCOUNT NO",
+        "bank_account_number",
+        "Account No",
+        "Account number",
+        "Account Number",
+        "Account No.",
+        "Account #",
+        "AccountNo",
+        "BankAccountnumber"
+    ],
+    "IBAN Numbers": [
+        "IBAN Numbers",
+        "IBAN",
+        "Account number with IBAN ",
+        "Refine IBAN Number",
+        "Account Number (IBAN)",
+        "IBAN.1",
+        "Account IBAN No"
+    ],
+    "Branch Code": [
+        "Branch Code",
+        "Br. Code",
+        "BRANCH CODE",
+        "Bank Code"
+    ],
+    "Branch Name": [
+        "Branch Name ",
+        "Branch Name",
+        "branch_name",
+        "Bank Branch Name",
+        "Bank Branch name",
+        "BranchName",
+        "Branch"
+    ],
+    "Bank name": [
+        "Bank name",
+        "Bank",
+        "Bank Name.1",
+        "Bank ",
+        "BankName",
+        "bank_name",
+        "Bank",
+        "Bank Name"
+    ]
+}
