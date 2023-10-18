@@ -7,3 +7,4 @@ python_docx==0.8.11
 qvd==0.0.15
 streamlit==1.27.2
 openpyxl==3.1.2
+python-Levenshtein 0.23.0
